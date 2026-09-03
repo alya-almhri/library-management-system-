@@ -1,2 +1,7 @@
-# library-management-system-
-Training project for learning Angular, Node.js, MongoDB and Git.
+# Student Management System
+ Training project for learning:
+ - Git 
+ - GitHub 
+- Angular
+ - Node.js 
+ - MongoDB 
